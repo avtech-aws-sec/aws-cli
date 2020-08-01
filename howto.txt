@@ -17,5 +17,11 @@ MacOS
 brew install awscli
 Run aws configure and enter the access key ID and secret access key you noted down earlier in the lesson, with us-east-1 as the region and json as the default output format.
 
+Enter 
+1.AWS Access Key ID :
+2.AWS Secret Access Key : 
+3.Default Region name  : us-east-1
+4.Default Output format : json
+
 Testing
 aws s3 ls
